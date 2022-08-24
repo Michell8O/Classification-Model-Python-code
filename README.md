@@ -1,5 +1,14 @@
 # Classification Model Python Code
 
+
+##Wine Dataset
+This dataset is of Italian wine from the same region, from 3 various cultivators. <br /> 
+13 measurements of the different wine components are taken for the 3 different wines <br /> 
+
+13 Components being Measured: 'alcohol', 'malic_acid', 'ash', 'alcalinity_of_ash', 'magnesium', 'total_phenols', 'flavanoids', 'nonflavanoid_phenols', 'proanthocyanins', 'color_intensity', 'hue', 'od280/od315_of_diluted_wines', 'proline'
+
+Classes: 'class_0' 'class_1' 'class_2'
+
 ## Digits Dataset
 This dataset consists of 1797, 8×8 images of hand-written digits. <br /> 
 These 8x8 images then need to be converted into feature vectors of length 64. <br /> 
