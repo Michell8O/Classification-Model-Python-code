@@ -1,8 +1,8 @@
 # Classification Model Python Code
 
 ## Digits Dataset
-This dataset consists of 8×8 images of hand-written digits.\n
-There are 1797 images and each refers to one of th 10 classes.\n
+This dataset consists of 8×8 images of hand-written digits. <br /> 
+There are 1797 images and each refers to one of th 10 classes. <br /> 
 These 8x8 images then need to be converted into feature vectors of length 64. 
 
 
